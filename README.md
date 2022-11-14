@@ -2,3 +2,7 @@
 
 Para rodar ou baixar este sistema faça o seguinte:
 Baixe todos os arquivos disponiveis aqui...
+
+,,,
+node app.js
+,,,
